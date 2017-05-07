@@ -1,0 +1,2 @@
+# HibernateOrnek
+yapılacak odev
